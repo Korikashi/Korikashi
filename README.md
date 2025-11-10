@@ -30,7 +30,7 @@ I aim to build things that matter — both to me and to those who use them.
 
 ### 🪷 Personal Project
 
-• **Project Sumi** a long-term, personal AI companion project exploring emotion, logic, and identity through code.  
+**Project Sumi** a long-term, personal AI companion project exploring emotion, logic, and identity through code.  
 It’s a private journey meant to grow with me over time.
 
 
